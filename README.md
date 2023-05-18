@@ -1,2 +1,0 @@
-# frigo
-Personal Project
